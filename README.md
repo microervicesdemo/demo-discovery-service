@@ -1,1 +1,1 @@
-# demo-discovery-service
+# poc-discovery
